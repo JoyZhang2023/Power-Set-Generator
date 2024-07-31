@@ -10,3 +10,5 @@ Create an application that takes a set as input from the user and generates the 
 - Display Power Set: The application should display the power set to the user.
 
 ## Video Demo
+https://github.com/user-attachments/assets/b6050d68-a789-4cb8-b8b1-200eebf67675
+
